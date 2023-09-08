@@ -1,9 +1,9 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import HeroSection from '../components/herosection';
+import HeroSection from '../components/Herosection';
 import ContentSection from '../components/ContentSection';
-import Navbar from '../components/navbar';
+import Navbar from '../components/Navbar';
 
 const Home = () => {
   return (
